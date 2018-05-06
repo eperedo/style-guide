@@ -4,8 +4,8 @@
   "description": "my personal style guide",
   "private": true,
   "scripts": {
-		"dev": "vuepress dev",
-		"build": "vuepress build"
+    "dev": "vuepress dev",
+    "build": "vuepress build"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/eperedo/style-guide/issues"
   },
-  "homepage": "https://github.com/eperedo/style-guide#readme"
+  "homepage": "https://github.com/eperedo/style-guide#readme",
+  "devDependencies": {
+    "vuepress": "0.8.4"
+  }
 }
