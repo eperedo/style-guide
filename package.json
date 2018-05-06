@@ -1,0 +1,21 @@
+{
+  "name": "draft-style-guide",
+  "version": "1.0.0",
+  "description": "my personal style guide",
+  "private": true,
+  "scripts": {
+		"dev": "vuepress dev",
+		"build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eperedo/style-guide.git"
+  },
+  "keywords": [],
+  "author": "Eduardo Peredo Rivero <jrperedo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eperedo/style-guide/issues"
+  },
+  "homepage": "https://github.com/eperedo/style-guide#readme"
+}
